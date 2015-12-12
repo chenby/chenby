@@ -1,3 +1,4 @@
+//感谢司徒正美大神，崇拜ing
 //为兼容ie的模拟Object.keys()
 Object.showkeys = function(obj) {
 	var a=[]; 
