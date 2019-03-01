@@ -1,4 +1,4 @@
-//感谢司徒正美大神，崇拜ing
+//// asdf 
 //为兼容ie的模拟Object.keys() 11111
 Object.showkeys = function(obj) {
 	var a=[]; 
