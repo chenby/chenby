@@ -1,5 +1,5 @@
 //感谢司徒正美大神，崇拜ing
-//为兼容ie的模拟Object.keys()
+//为兼容ie的模拟Object.keys() 11111
 Object.showkeys = function(obj) {
 	var a=[]; 
 	for(a[a.length] in obj);//a[a.lenght]很亮
